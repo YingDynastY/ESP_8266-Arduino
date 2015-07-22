@@ -1,6 +1,6 @@
 # ESP_8266-Arduino
 
-This is the source include following founction
+This is the source include following founctions
 
 1.Connect the Internet through ESP8266
 
